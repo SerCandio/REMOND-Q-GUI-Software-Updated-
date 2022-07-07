@@ -1,5 +1,5 @@
 # REMOND-Q-GUI-Software
-Este software GUI interactivo es útil para realizar lecturas y calibración manual del sensor de pH de fabricante REMOND. Puede descargar el software instalador a traves de este enlace : https://mega.nz/file/6ERkTR4D#Zh63Jc_a9BzhGXCmszHp6YXsvlPaa8KKUyJQ6T_kkWc
+Este software GUI interactivo es útil para realizar lecturas y calibración manual del sensor de pH de fabricante REMOND. Puede descargar el software instalador a traves de este enlace : https://mega.nz/file/SY5ESbDZ#_t54ghTLbKxhj7BrMWNgBVgHaZPxw6-TqS37TJpnJbs
 
 # Vista Previa
 
