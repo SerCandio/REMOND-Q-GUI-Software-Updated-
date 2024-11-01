@@ -5,7 +5,7 @@ Este software GUI interactivo es útil para realizar lecturas y calibración man
 
 Calibrador del PHimetro:
 ![image](https://user-images.githubusercontent.com/106831539/177463360-39113bcb-9ea1-4b7c-aae4-42a9f35f1de0.png)
-Link de descarga del instalador : https://mega.nz/file/GIAn1DiB#znWqsebPLKcxgb-lkbsD4WXA764g35RIPI5cW5CjKfQ
+Link de descarga del instalador : https://mega.nz/file/adgknACA#RlTBCzxHm6yrK91_SJAvq9QBPgzfz47v02oVEHRp6PA 
 
 Calibrador del Oxigeno disuelto DO
 ![image](https://user-images.githubusercontent.com/106831539/188742999-8080a448-2db9-4156-a4c5-f20f3e37d568.png)
