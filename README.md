@@ -15,6 +15,7 @@ Este software GUI interactivo es útil para realizar <B>LECTURAS</B> y <B>calibr
 
 # NOTA
 Se requiere una conexion USB- RS485 a fin de comunicarse con el bus de los sensores REMOND; como se muestra a continuacion:
+
 ![image](https://github.com/user-attachments/assets/eca27f5f-8e7b-4b43-8dde-be487a69ff47)
 
 Convertidor USB-485. Podemos adquirilo en paginas como <A HREF="https://es.aliexpress.com/item/1005007334186563.html?src=google&pdp_npi=4%40dis%21PEN%216.55%214.20%21%21%21%21%21%40%2112000040634267926%21ppc%21%21%21&src=google&albch=shopping&acnt=708-803-3821&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&&albagn=888888&&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=es1005007334186563&ds_e_product_merchant_id=107671097&ds_e_product_country=PE&ds_e_product_language=es&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=19373953645&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gclid=Cj0KCQiAouG5BhDBARIsAOc08RQwFG47GjZah3Qh850c7dq9VEpjG932lM3P1clwjpyNrbK9o2Fo0v8aAt0-EALw_wcB">ALIEXPRESS</A>
