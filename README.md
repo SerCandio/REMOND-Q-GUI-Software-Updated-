@@ -100,4 +100,4 @@ La calibracino de este sensor es muy simular al del sensor de pH, pero solo es i
 
 2.- Para salir del programa, debe primero detener o <B>STOP</B> la lectura de muestras, luego cerrar el puerto COM--->>> click en "EXIT". Asi se evita que cuelgue el puerto.
 
-3.- En la capreta /../LoggedData/ puede ver el reporte de calibracion de las muestras separado por coma, lo que es posible llevar a un archivo excel.
+3.- En la capreta <B>/../LoggedData/</B> puede ver el reporte de calibracion de las muestras separado por coma, lo que es posible llevar a un archivo excel.
