@@ -4,14 +4,14 @@ Este software GUI interactivo es útil para realizar <B>LECTURAS</B> y <B>calibr
 # Vista Previa de los GUI 
 
 <B>Lector-Calibrador del PHimetro:</B>
-![image](https://user-images.githubusercontent.com/106831539/177463360-39113bcb-9ea1-4b7c-aae4-42a9f35f1de0.png)
+![REMOND Studio_pH Water Q vi 15_11_2024 17_33_14](https://github.com/user-attachments/assets/ad49952f-c117-42a0-accf-4085f43bb1c5)
 
-<A HREF="https://drive.google.com/file/d/16fVAK4XWTegzOCGfbD2lVhxzkK7gzxvU/view?usp=sharing">Link de descarga del instalador GUI DO REMOND</A>
+<A HREF="https://drive.google.com/file/d/16fVAK4XWTegzOCGfbD2lVhxzkK7gzxvU/view?usp=sharing">Link de descarga del instalador GUI pH REMOND</A>
 
 <B>Lector-Calibrador del Oxigeno disuelto DO:</B>
-![image](https://user-images.githubusercontent.com/106831539/188742999-8080a448-2db9-4156-a4c5-f20f3e37d568.png)
+![REMOND Studio_DO  Disolved Oxigen  Water Q 16_11_2024 14_54_41](https://github.com/user-attachments/assets/dcb304b5-d13f-4a44-a1ea-235f9b3a98e2)
 
-<A HREF="https://drive.google.com/file/d/1jzi43oPj0_-aAN5n_KG1g0KCgBXX3ivA/view?usp=sharing">Link de descarga del instalador GUI pH REMOND</A>
+<A HREF="https://drive.google.com/file/d/1QtvVFHdXkFR-369Bi7MPp8Gwwge2J2Pt/view?usp=sharing">Link de descarga del instalador GUI DO REMOND</A>
 
 # NOTA
 Se requiere una conexion USB- RS485 a fin de comunicarse con el bus de los sensores REMOND; como se muestra a continuacion:
@@ -84,6 +84,16 @@ debemos detener la toma de muestras <B>STOP</B>
 ![image](https://github.com/user-attachments/assets/53f34495-9d05-4ef2-8d81-8e1b557b88d8)
 
 8.- Recibira un <B>mensaje de confirmacion de RE-establecimiento de la lectura de muestras</B>, por lo que ya puede sumergir el sensor en agua destilada nuevamente.
+
+# PASOS PARA CALIBRAR EL SENSOR DE DO
+
+La calibracino de este sensor es muy simular al del sensor de pH, pero solo es indispensable la calibracion de 1 solo punto de 0% , siguiendo los mismos pasos y presionando los mismos botones. Antes de calibrar el sensor debe estar lavado y sumergido en el punto de calibracion
+
+1.- Abra el GUI <B>"REMOND Studio DO [Disolved Oxigen]" </B>. Presione en <B>Start</B> del apartado <B>Calibracion</B>.
+
+2.- En cuanto la muestra de ADC sea estable, presione en <B>"Confirm Zero" </B>. Recibira un mensaje para poder continuar o terminar con la calibracion. 
+
+3.- La lectura es re-establecida ni bien se termine de calibrar.
 
 # OBS
 1.- Es indispensable este instalado los divers(CH340) del puerto USB RS485 para que este GUI pueda enlazarse al puerto serial. Los instaladores no instalan el driver.
